@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mochamad Rasyad
+Practice make Perfect
 
 <!--
 **rasyadsr/rasyadsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
