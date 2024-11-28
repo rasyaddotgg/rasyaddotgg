@@ -1,9 +1,5 @@
 Hello World!, I'm Rasyad, Web developer based on Indonesia
 =======================
-
-Web Developer | IT enthusiast
------------------------------
-# 💫 About Me:
 🛜 currently working as web developer<br>
 🧑‍💻 working as web developer since 2022
 
